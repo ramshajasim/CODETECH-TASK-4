@@ -11,14 +11,13 @@ duration : july to august 2025
 
 mentor : neela santhosh kumar
 
-overview of the project :  
+overview of the project :  Generative Text Model
 
 
 
 
 
 
-Generative Text Model
 🎯 Project Objective
 To build a text generation model capable of creating coherent and contextually relevant paragraphs based on user-provided prompts, using machine learning techniques like GPT or LSTM.
 
