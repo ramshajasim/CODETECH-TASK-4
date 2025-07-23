@@ -11,45 +11,75 @@ duration : july to august 2025
 
 mentor : neela santhosh kumar
 
-overview of the project :  Text Summarization
+overview of the project :  
 
 
 
 
 
 
-
-🎯 📌 Project Objective
-To build a text summarization system that can automatically generate a shorter version of long text documents, keeping the most important information intact.
+Generative Text Model
+🎯 Project Objective
+To build a text generation model capable of creating coherent and contextually relevant paragraphs based on user-provided prompts, using machine learning techniques like GPT or LSTM.
 
 🔑 Key Activities
-Data Input
+Understand Generative Text Modeling
+Study how models like GPT (transformers) or LSTM (RNNs) can be used for text generation.
 
-Accept or load long text (from file or user input).
+Preprocess Dataset
 
-Text Cleaning & Preprocessing
+Use a dataset (e.g., stories, news articles, poems)
 
-Remove stop words, punctuation, special characters, etc.
+Clean and tokenize the text
 
-Summarization Process
-You can use either:
+Model Building
 
-Extractive summarization: Select key sentences using NLP/statistics (e.g., frequency, TF-IDF).
+Choose either:
 
-Abstractive summarization: Generate new sentences using deep learning (e.g., transformers).
+GPT (via Hugging Face Transformers)
 
-Generate Output
+LSTM model (via TensorFlow/Keras)
 
-Display or save the summary in text/image format.
+Train the model or use pre-trained models
 
-(Optional): Build a simple GUI or CLI for easy user interaction.
+Text Generation
+
+Accept a prompt from the user
+
+Generate text based on that prompt
+
+Notebook/Script Creation
+
+Show code + generated text examples
+
+Optionally add UI or CLI input prompt
 
 🛠️ Technologies Used
 Category	Tools/Technologies
-Language	Python
-NLP Libraries	NLTK, spaCy, Gensim, Transformers
-ML Models (optional)	BERT, T5, GPT (via HuggingFace)
-Visualization	Matplotlib, Wordcloud (optional)
-IDE	VS Code / Jupyter Notebook
-Output Format	Text, Image (PNG/JPG), or PDF
+Programming Language	Python
+NLP Models	GPT-2 / GPT-3, LSTM
+Libraries	Hugging Face Transformers, TensorFlow, Keras, PyTorch, NLTK
+Data Handling	Pandas, NumPy
+Environment	Jupyter Notebook, VS Code
+Output	Text files, Markdown, CLI, or Notebook
+
+
+
+
+Output Example
+
+
+
+Input Prompt:
+"The future of AI in healthcare"
+
+Generated Output:
+
+The future of AI in healthcare is promising, with advancements in diagnostics, personalized medicine, and patient monitoring. AI algorithms can help detect diseases early...
+
+
+
+
+
+
 
