@@ -1,10 +1,24 @@
 # CODETECH-TASK-4
+name : Ramsha jasim
+
+company : CODETECH IT SOLUTIONS
+
+id : CTO4DH1922
+
+domain : AI
+
+duration : july to august 2025
+
+mentor : neela santhosh kumar
+
+overview of the project :  Text Summarization
 
 
 
- Text Summarization from your internship:
 
-✅ Task 4: Text Summarization
+
+
+
 🎯 📌 Project Objective
 To build a text summarization system that can automatically generate a shorter version of long text documents, keeping the most important information intact.
 
